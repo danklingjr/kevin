@@ -7,18 +7,11 @@
   width: device-width; }
 @viewport {
   width: device-width; }
-<<<<<<< HEAD
-*, *:after, *:before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-=======
 html {
   box-sizing: border-box; }
 
 *, *:before, *:after {
   box-sizing: inherit; }
->>>>>>> FETCH_HEAD
 
 html,
 body,
@@ -155,8 +148,8 @@ textarea {
     .grid-full:nth-child(n),
     .grid-25:nth-child(n),
     .grid-unit:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-1:nth-of-type(1n),
     .grid-2:nth-of-type(1n),
     .grid-3:nth-of-type(1n),
@@ -182,11 +175,11 @@ textarea {
 
   .gallery .grid-unit,
   .grid-half {
-    width: 49.24242%; }
+    width: 49.2424242424%; }
     .gallery .grid-unit:nth-child(n),
     .grid-half:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .gallery .grid-unit:nth-of-type(2n),
     .grid-half:nth-of-type(2n) {
       margin-right: 0; }
@@ -198,20 +191,20 @@ textarea {
     float: right; } }
 @media screen and (min-width: 640px) {
   .grid-1 {
-    width: 15.40404%; }
+    width: 15.404040404%; }
     .grid-1:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-1:nth-of-type(6n) {
       margin-right: 0; }
     .grid-1:last-child {
       margin-right: 0; }
 
   .grid-2 {
-    width: 32.32323%; }
+    width: 32.3232323232%; }
     .grid-2:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-2:nth-of-type(3n) {
       margin-right: 0; }
     .grid-2:last-child {
@@ -219,11 +212,11 @@ textarea {
 
   .grid-3,
   .grid-half {
-    width: 49.24242%; }
+    width: 49.2424242424%; }
     .grid-3:nth-child(n),
     .grid-half:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-3:nth-of-type(2n),
     .grid-half:nth-of-type(2n) {
       margin-right: 0; }
@@ -232,21 +225,21 @@ textarea {
       margin-right: 0; }
 
   .grid-4 {
-    width: 66.16162%; }
+    width: 66.1616152593%; }
     .grid-4:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
-    .grid-4:nth-of-type(1.5n) {
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
+    .grid-4:nth-of-type(1.50000002n) {
       margin-right: 0; }
     .grid-4:last-child {
       margin-right: 0; }
 
   .grid-5 {
-    width: 82.74242%; }
+    width: 82.7424240402%; }
     .grid-5:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
-    .grid-5:nth-of-type(1.20482n) {
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
+    .grid-5:nth-of-type(1.20481928n) {
       margin-right: 0; }
     .grid-5:last-child {
       margin-right: 0; }
@@ -256,8 +249,8 @@ textarea {
     width: 100%; }
     .grid-6:nth-child(n),
     .grid-full:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-6:nth-of-type(1n),
     .grid-full:nth-of-type(1n) {
       margin-right: 0; }
@@ -267,7 +260,7 @@ textarea {
 
   /* If there are no margins */
   .grid-1.no-margin {
-    width: 16.66667%; }
+    width: 16.6666666667%; }
     .grid-1.no-margin:nth-child(n) {
       margin-bottom: 0;
       margin-right: 0; }
@@ -277,7 +270,7 @@ textarea {
       margin-right: 0; }
 
   .grid-2.no-margin {
-    width: 33.33333%; }
+    width: 33.3333333333%; }
     .grid-2.no-margin:nth-child(n) {
       margin-bottom: 0;
       margin-right: 0; }
@@ -301,21 +294,21 @@ textarea {
       margin-right: 0; }
 
   .grid-4.no-margin {
-    width: 66.66667%; }
+    width: 66.6666657778%; }
     .grid-4.no-margin:nth-child(n) {
       margin-bottom: 0;
       margin-right: 0; }
-    .grid-4.no-margin:nth-of-type(1.5n) {
+    .grid-4.no-margin:nth-of-type(1.50000002n) {
       margin-right: 0; }
     .grid-4.no-margin:last-child {
       margin-right: 0; }
 
   .grid-5.no-margin {
-    width: 83.0%; }
+    width: 82.9999998008%; }
     .grid-5.no-margin:nth-child(n) {
       margin-bottom: 0;
       margin-right: 0; }
-    .grid-5.no-margin:nth-of-type(1.20482n) {
+    .grid-5.no-margin:nth-of-type(1.20481928n) {
       margin-right: 0; }
     .grid-5.no-margin:last-child {
       margin-right: 0; }
@@ -335,10 +328,10 @@ textarea {
       margin-right: 0; }
 
   .grid-25 {
-    width: 23.86364%; }
+    width: 23.8636363636%; }
     .grid-25:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .grid-25:nth-of-type(4n) {
       margin-right: 0; }
     .grid-25:last-child {
@@ -355,10 +348,10 @@ textarea {
       margin-right: 0; }
 
   .gallery .grid-unit {
-    width: 32.32323%; }
+    width: 32.3232323232%; }
     .gallery .grid-unit:nth-child(n) {
-      margin-bottom: 1.51515%;
-      margin-right: 1.51515%; }
+      margin-bottom: 1.5151515152%;
+      margin-right: 1.5151515152%; }
     .gallery .grid-unit:nth-of-type(3n) {
       margin-right: 0; }
     .gallery .grid-unit:last-child {
@@ -373,12 +366,375 @@ textarea {
 /*!////////////////////////////////////////////////
 // THEME
 /////////////////////////////////////////////////*/
+h1,
+h2 {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase; }
+
+p,
+li,
+input,
+blockquote {
+  font-family: "PT Serif", serif; }
+
+.button__big {
+  display: inline-block;
+  border: none;
+  background-color: #8fcb1b;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.625em;
+  font-weight: 400;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 14px 20px 12px;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+  .button__big:hover, .button__big:focus {
+    background-color: #6f9e15; }
+
+.button {
+  display: inline-block;
+  border: none;
+  background-color: #8fcb1b;
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 8px 20px;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+
+.button__buy:hover, .button__buy:focus {
+  background-color: #6f9e15; }
+
+.button__seats {
+  background-color: #3d4045; }
+  .button__seats:hover, .button__seats:focus {
+    background-color: #555960; }
+
 /*!////////////////////////////////////////////////
 // MODULES
 /////////////////////////////////////////////////*/
-.test {
-  min-height: 100px;
-  background-color: gray; }
+.hero {
+  padding: 1.5% 0;
+  background-image: url(../img/hero-bg.jpg);
+  background-size: cover; }
+
+header[role=banner] {
+  position: relative;
+  padding: 0.5% 2.5%; }
+
+.branding {
+  display: inline-block; }
+  .branding span {
+    font-family: "Oswald", sans-serif;
+    font-size: 1.25em;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 0.05em;
+    text-transform: uppercase; }
+
+nav[role=navigation] {
+  display: inline-block;
+  float: right; }
+  nav[role=navigation] a {
+    font-family: "Oswald", sans-serif;
+    font-size: 1.25em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none; }
+
+.site__title {
+  font-size: 5em;
+  color: #fff;
+  line-height: 1.1em; }
+
+.title--page {
+  font-size: 3.75em;
+  margin-bottom: 20px; }
+
+.tagline {
+  margin-top: 10%;
+  padding: 0 7.5%; }
+  .tagline p {
+    font-family: "PT Serif", serif;
+    font-size: 1.875em;
+    font-style: italic;
+    font-weight: 400;
+    color: #fff; }
+
+.tagline--page {
+  margin-top: 40px;
+  padding: 0 7.5%; }
+
+.search--home {
+  margin-top: 50px;
+  margin-bottom: 10%;
+  padding: 0 7.5%; }
+
+.search--page {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding: 0 7.5%; }
+
+.search__wrap {
+  position: relative;
+  background-color: #fff;
+  border: 5px solid #fff; }
+  .search__wrap input[type=text] {
+    font-family: "PT Serif", serif;
+    font-size: 2.125em;
+    font-style: italic;
+    font-weight: 400;
+    color: #c4c4c4;
+    padding: 10px 20px;
+    width: 85%;
+    border: none;
+    outline: none; }
+  .search__wrap .button__big {
+    position: absolute;
+    right: 0;
+    top: 0; }
+
+.search__tags {
+  margin-top: 15px; }
+  .search__tags a {
+    position: relative;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.375em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-right: 2px; }
+    .search__tags a:after {
+      content: ','; }
+    .search__tags a:last-child:after {
+      content: ',';
+      display: none; }
+
+.selling-points {
+  padding: 5%; }
+
+.point {
+  padding: 0 1.5%; }
+  .point h2 {
+    position: relative;
+    font-size: 1.75em;
+    color: #3d4045;
+    text-transform: none; }
+  .point p {
+    line-height: 1.6em; }
+
+.point__1 h2:after,
+.point__2 h2:after,
+.point__3 h2:after {
+  color: #8fcb1b;
+  position: absolute;
+  left: -25px;
+  top: -0px;
+  font-size: 0.65em;
+  text-align: center;
+  padding: 3px 0 0; }
+
+.point__1 h2:after {
+  content: '01'; }
+
+.point__2 h2:after {
+  content: '02'; }
+
+.point__3 h2:after {
+  content: '03'; }
+
+.upcoming-tickets {
+  background-color: #e4ddd7;
+  padding: 2.5% 5%;
+  text-align: center; }
+  .upcoming-tickets h2 {
+    color: #8a8480;
+    line-height: 1.3em;
+    margin-bottom: 40px; }
+    .upcoming-tickets h2 span {
+      font-family: "PT Serif", serif;
+      font-size: 0.875em;
+      font-style: italic;
+      text-transform: lowercase !important;
+      display: block; }
+    .upcoming-tickets h2 b {
+      font-size: 1.375em; }
+
+.ticket {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  max-width: 940px;
+  margin: 0 auto 10px;
+  padding: 30px 0; }
+  .ticket time {
+    position: absolute;
+    left: -25px;
+    background-color: #8a8480;
+    display: inline-block;
+    width: 95px;
+    padding: 10px; }
+    .ticket time b {
+      display: block;
+      font-family: "PT Serif", serif;
+      font-size: 1.875em;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.0em;
+      text-transform: uppercase; }
+    .ticket time span {
+      display: inline-block;
+      font-family: "PT Serif", serif;
+      font-size: 1.125em;
+      font-weight: 700;
+      color: #fff;
+      text-transform: uppercase; }
+
+.fade {
+  opacity: 0;
+  position: relative;
+  -webkit-animation: fadeIn ease-in 1;
+  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation: fadeIn ease-in 1;
+  animation: fadeIn ease-in 1;
+  -webkit-animation-fill-mode: forwards;
+  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-animation-duration: 0.7s;
+  -moz-animation-duration: 0.7s;
+  animation-duration: 0.7s;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s; }
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+@-moz-keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+@keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+.month:after {
+  content: '';
+  display: inline-block;
+  background-color: #e4ddd7;
+  width: 1px;
+  height: 13px;
+  margin-left: 5px; }
+
+.ticket__details {
+  width: 65%;
+  display: inline-block;
+  text-align: left; }
+  .ticket__details h3 {
+    font-family: "PT Serif", serif;
+    font-size: 1.625em; }
+
+.ticket__location {
+  font-family: "PT Serif", serif;
+  font-size: 1.125em;
+  color: #8a8480;
+  margin-bottom: 15px; }
+
+.ticket__action {
+  display: inline-block;
+  position: absolute;
+  right: 20px; }
+  .ticket__action .button {
+    display: block;
+    margin-bottom: 10px; }
+
+.ticket__meta p {
+  display: inline-block;
+  font-family: "PT Serif", serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  margin-right: 30px; }
+  .ticket__meta p i {
+    font-style: italic;
+    font-weight: 400; }
+
+.view-all {
+  position: relative;
+  display: inline-block;
+  font-family: "PT Serif", serif;
+  font-size: 1.625em;
+  font-style: italic;
+  color: #8a8480;
+  text-decoration: none;
+  margin-top: 20px; }
+  .view-all:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 100%;
+    height: 1px;
+    border-bottom: 5px solid #8a8480; }
+
+.buy__cta {
+  height: 660px;
+  background-image: url(../img/nostalgia.jpg);
+  background-size: cover; }
+
+.cta__minor {
+  font-family: "PT Serif", serif;
+  font-size: 1.75em;
+  font-style: italic;
+  color: #fff; }
+
+.cta__quote {
+  font-family: "Oswald", sans-serif;
+  font-size: 3.625em;
+  color: #fff;
+  line-height: 1.2em;
+  text-transform: uppercase; }
+
+.cta__wrap {
+  text-align: right;
+  padding: 100px 7.5%; }
+  .cta__wrap cite {
+    display: block;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.75em;
+    font-style: normal;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 30px; }
+  .cta__wrap .button__big {
+    display: inline-block; }
+
+footer {
+  background-color: #3d4045;
+  padding: 60px 7.5%; }
+  footer .copyright {
+    float: right;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.375em;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none; }
 
 /*!////////////////////////////////////////////////
 // STATES

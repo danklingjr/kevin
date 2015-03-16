@@ -1,8 +1,78 @@
 /*!////////////////////////////////////////////////
 // THEME
 /////////////////////////////////////////////////*/
-$base-font-size: 16px;
+$font-size: 16px;
 @function em($px, $base: $base-font-size){
 	@return ($px / $base) * 1em;
 }
 
+$primary: #3d4045; // Dark navy green
+$secondary: #8fcb1b; //green
+$tertiary: #e4ddd7; //tan
+$darkTertiary: #8a8480; //dark tan
+
+$headline: 'Oswald', sans-serif;
+$body: 'PT Serif', serif;
+
+h1,
+h2{
+	font-family: $headline;
+	text-transform: uppercase;
+}
+
+p,
+li,
+input,
+blockquote{
+	font-family: $body;
+}
+
+.button__big{
+	display: inline-block;
+	border: none;
+	background-color: $secondary;
+	font-family: $headline;
+	font-size: em(26px,$font-size);
+	font-weight: 400;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 14px 20px 12px;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+		background-color: darken($secondary, 10);
+		// @include prefix(box-shadow, 0 0 18px $secondary);
+	}
+}
+.button{
+	display: inline-block;
+	border: none;
+	background-color: $secondary;
+	font-family: $headline;
+	font-size: em(16px,$font-size);
+	font-weight: 400;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 8px 20px;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+
+		// transform: scale(1.1);
+	}
+}
+.button__buy{
+	&:hover,
+	&:focus{
+		background-color: darken($secondary, 10);
+	}
+}
+.button__seats{
+	background-color: $primary;
+	&:hover,
+	&:focus{
+		background-color: lighten($primary,10);
+	}
+}

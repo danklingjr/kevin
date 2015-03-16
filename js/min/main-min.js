@@ -1,0 +1,1 @@
+function parallax(){var a=$(window).scrollTop();$(".hero").css("top",-(.2*a)+"px")}$(window).scroll(function(a){parallax()}),$(".fade").delay(200).fadeIn(500);
