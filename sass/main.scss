@@ -40,6 +40,9 @@ nav[role=navigation]{
 		text-decoration: none;
 	}
 }
+.menu{
+	font-size: em(28px,$font-size);
+}
 .site__title{
 	font-size: em(80px, $font-size);
 	color: #fff;

@@ -472,6 +472,9 @@ nav[role=navigation] {
     text-transform: uppercase;
     text-decoration: none; }
 
+.menu {
+  font-size: 1.75em; }
+
 .site__title {
   font-size: 5em;
   color: #fff;
