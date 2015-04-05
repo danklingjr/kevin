@@ -243,6 +243,7 @@ nav[role=navigation]{
 	@include prefix(box-shadow, 0 0 5px rgba(0,0,0,0.25));
 	&:before{
 		content: '';
+		display: none;
 		position: absolute;
 		top: 50%;
 		left: 20px;
@@ -250,9 +251,13 @@ nav[role=navigation]{
 		width: 70px;
 		height: 2px;
 		margin-top: -1px;
+		@media screen and (min-width: 600px){
+			display: block;
+		}
 	}
 	&:after{
 		content: '';
+		display: none;
 		position: absolute;
 		top: 50%;
 		right: 20px;
@@ -260,6 +265,9 @@ nav[role=navigation]{
 		width: 70px;
 		height: 2px;
 		margin-top: -1px;
+		@media screen and (min-width: 600px){
+			display: block;
+		}
 	}
 }
 .filter--sport{
@@ -364,7 +372,18 @@ nav[role=navigation]{
 	margin: 10px 0 20px;
 }
 .card__action{
-	margin-bottom: -18px;
+	margin-bottom: 20px;
+	@media screen and (min-width: 640px) and (max-width: 758px){
+		.button{
+			margin-bottom: 10px;
+		}
+	}
+	@media screen and (max-width: 640px){
+		margin-bottom: -18px;
+	}
+	@media screen and (min-width: 758px){
+		margin-bottom: -18px;
+	}
 }
 .tag--mlb:before{
 	content: 'MLB';

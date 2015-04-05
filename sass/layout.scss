@@ -48,6 +48,9 @@
         // width: 30.30303030303%;
         @include gridRow(3, 1.515151515152%);
     }
+    .card.grid-2 {    
+        @include gridRow(2, 1.515151515152%);
+    }
     .grid-3,
     .grid-half {
         // width: 46.969696969697%;
@@ -105,6 +108,12 @@
     }
     .content-pad-left {
         padding-left: 4%;
+    }
+}
+@media screen and (min-width: 1155px){
+    .card.grid-2 {    
+        // width: 30.30303030303%;
+        @include gridRow(3, 1.515151515152%);
     }
 }
   
