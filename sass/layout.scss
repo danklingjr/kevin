@@ -40,7 +40,7 @@
         float: right;
     }
 }
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 600px) {
     .grid-1 { 
         @include gridRow(6, 1.515151515152%);
     }
@@ -49,7 +49,7 @@
         @include gridRow(3, 1.515151515152%);
     }
     .card.grid-2 {    
-        @include gridRow(2, 1.515151515152%);
+        @include gridRow(2, 3%);
     }
     .grid-3,
     .grid-half {
@@ -113,7 +113,12 @@
 @media screen and (min-width: 1155px){
     .card.grid-2 {    
         // width: 30.30303030303%;
-        @include gridRow(3, 1.515151515152%);
+        @include gridRow(3, 3%);
+    }
+}
+@media screen and (min-width: 1440px){
+    .card.grid-2{
+        @include gridRow(4, 3%);
     }
 }
   

@@ -231,9 +231,15 @@ nav[role=navigation]{
 	}
 }
 .sports-cards{
-	padding: 2.5% 10%;
+	padding: 2.5% 5%;
 	h2{
 		margin-bottom: 10px;
+	}
+	@media screen and (min-width: 762px){
+		padding: 2.5% 10%;
+	}
+	@media screen and (min-width: 1440px){
+		padding: 2.5% 5%;
 	}
 }
 .filters{
@@ -345,11 +351,15 @@ nav[role=navigation]{
 	background-color: $nhl;
 	color: #fff;
 }
+.card__wrap{
+	
+}
 .card{
 	position: relative;
 	background-color: #fff;
 	padding: 20px 30px 0;
 	margin-bottom: 70px !important;
+	@include prefix(box-shadow, 0 0 5px rgba(0,0,0,0.25));
 	figure{
 		width: 100%;
 		margin-bottom: 20px;
@@ -376,16 +386,22 @@ nav[role=navigation]{
 }
 .card__action{
 	margin-bottom: 20px;
-	@media screen and (min-width: 640px) and (max-width: 758px){
+	@media screen and (min-width: 600px) and (max-width: 758px){
 		.button{
 			margin-bottom: 10px;
 		}
 	}
-	@media screen and (max-width: 640px){
+	@media screen and (max-width: 600px){
 		margin-bottom: -18px;
 	}
 	@media screen and (min-width: 758px){
 		margin-bottom: -18px;
+	}
+	@media screen and (min-width: 1155px) and (max-width: 1189px){
+		margin-bottom: 10px;
+		.button{
+			margin-bottom: 10px;
+		}
 	}
 }
 .tag--mlb:before{
