@@ -537,7 +537,7 @@ nav[role=navigation] {
     margin-right: 2px; }
     .search__tags a:after {
       content: ','; }
-    .search__tags a:last-child:after {
+    .search__tags a:last-of-type:after {
       content: ',';
       display: none; }
 
