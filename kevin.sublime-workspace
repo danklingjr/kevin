@@ -1,0 +1,1009 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"article",
+				"article__content"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"blog__",
+				"blog__article"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"portfolio",
+				"portfolio__image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"masthead",
+				"masthead__statement"
+			],
+			[
+				"dream",
+				"dreamFont"
+			],
+			[
+				"cert",
+				"certifications__eif"
+			],
+			[
+				"certifications",
+				"certifications__leed"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"hea",
+				"headerText"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"dark",
+				"darkBlue"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"light",
+				"light-blue"
+			],
+			[
+				"staff",
+				"staff-member"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"w",
+				"wap-accesskey"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"d",
+				"darken"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"after",
+				"after"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"10px",
+				"10px"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"t",
+				"top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cards.html",
+			"settings":
+			{
+				"buffer_size": 4012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/DanielKling/Library/Application Support/Sublime Text 2/Packages/User/picture.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 6702,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/DanielKling/Library/Application Support/Sublime Text 2/Packages/User/picture",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/personal-styling-2.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/index-3.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/index-2.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/index.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/.gitignore",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/sass/layout.scss",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/sass/theme.scss",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/sass/mixins.scss",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/sass/main.scss",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/blog.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/js/vendor/masonry.js",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/personal-styling.html",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/behind-the-scenes.html",
+		"/Users/DanielKling/Desktop/Projects/portfolio/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/blogger/js/main-ck.js",
+		"/Users/DanielKling/Desktop/Projects/stacyphillips/js/vendor/jquery.stickyPanel.js",
+		"/Users/DanielKling/Desktop/Projects/dreamweddings/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/wildlife/sass/main.scss",
+		"/Users/DanielKling/Desktop/Projects/wildlife/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/wildlife/about.html",
+		"/Users/DanielKling/Desktop/Projects/wildlife/service.html",
+		"/Users/DanielKling/Desktop/Projects/wildlife/index.html",
+		"/Users/DanielKling/Desktop/Projects/deklingco/sass/main.scss",
+		"/Users/DanielKling/Desktop/Projects/deklingco/service.html",
+		"/Users/DanielKling/Desktop/Projects/deklingco/index.html",
+		"/Users/DanielKling/Desktop/Projects/wildlife/sass/layout.scss",
+		"/Users/DanielKling/Desktop/Projects/wildlife/sass/theme.scss",
+		"/Users/DanielKling/Desktop/Projects/index.php",
+		"/Users/DanielKling/Desktop/Projects/deklingco/css/flexslider.css",
+		"/Users/DanielKling/Desktop/Projects/dreamweddings/css/main.css",
+		"/Users/DanielKling/Desktop/Projects/just-build/css/main.css",
+		"/Users/DanielKling/Desktop/Projects/just-build/jb.sublime-project",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/barn-options.html",
+		"/Users/DanielKling/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/wp-content/themes/jnstructures/footer.php",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/wp-content/themes/jnstructures/home.php",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/.htaccess",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/wp-content/themes/jnstructures/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/wp-content/themes/jnstructures/sidebar-side.php",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/wp-content/themes/jnstructures/_home.php",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/index.html",
+		"/Users/DanielKling/Desktop/Projects/jnstructures/jnstructures.sublime-project",
+		"/Users/DanielKling/Desktop/Projects/deklingco/sftp-config.json",
+		"/Users/DanielKling/Desktop/Projects/deklingco/new.html",
+		"/Users/DanielKling/Desktop/Projects/deklingco/css/main.css",
+		"/Users/DanielKling/Desktop/Projects/deklingco/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/deklingco/sass/main.sass",
+		"/Users/DanielKling/Desktop/header-logo.js",
+		"/Users/DanielKling/Desktop/Projects/allbettercare/index.html",
+		"/Users/DanielKling/Desktop/Projects/allbettercare/overview.html",
+		"/Users/DanielKling/Desktop/Projects/allbettercare/css/font-awesome.css",
+		"/Users/DanielKling/Desktop/Projects/allbettercare/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/allbettercare/sass/main.sass",
+		"/Users/DanielKling/Desktop/Projects/mitrani/sass/main.sass",
+		"/Users/DanielKling/Desktop/Projects/mitrani/shop.html",
+		"/Users/DanielKling/Desktop/Projects/mitrani/shop-categories.html",
+		"/Users/DanielKling/Desktop/Projects/mitrani/product.html",
+		"/Users/DanielKling/Desktop/Projects/mitrani/brands.html",
+		"/Users/DanielKling/Desktop/Projects/mitrani/contact.html",
+		"/Users/DanielKling/Desktop/Projects/blasco/news.html",
+		"/Users/DanielKling/Desktop/Projects/blasco/home-insurance.html",
+		"/Users/DanielKling/Desktop/Projects/blasco/index.html",
+		"/Users/DanielKling/Desktop/Projects/blasco/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/blasco/sass/main.sass",
+		"/Users/DanielKling/Desktop/Projects/blasco/js/vendor/jquery.backstretch.js",
+		"/Users/DanielKling/Desktop/Projects/survive/contact.html",
+		"/Users/DanielKling/Desktop/Projects/survive/products-all.html",
+		"/Users/DanielKling/Desktop/Projects/survive/checkout.html",
+		"/Users/DanielKling/Desktop/Projects/survive/carts.html",
+		"/Users/DanielKling/Desktop/Projects/survive/products.html",
+		"/Users/DanielKling/Desktop/Projects/survive/mission.html",
+		"/Users/DanielKling/Desktop/Projects/survive/news.html",
+		"/Users/DanielKling/Desktop/Projects/survive/index.html",
+		"/Users/DanielKling/Desktop/Projects/survive/js/main-products.js",
+		"/Users/DanielKling/Desktop/Projects/survive/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/survive/sass/main.sass",
+		"/Users/DanielKling/Desktop/Projects/survive/cart.html",
+		"/Users/DanielKling/Desktop/Projects/survive/css/jquery.fancybox.css",
+		"/Users/DanielKling/Desktop/Projects/survive/js/vendor/jquery.backstretch.min.js",
+		"/Users/DanielKling/Desktop/Projects/pause-clause/project.html",
+		"/Users/DanielKling/Desktop/modern-pictograms-fontfacekit/stylesheet.css",
+		"/Users/DanielKling/Desktop/Projects/dek-design/sass/main.sass",
+		"/Users/DanielKling/Desktop/Projects/dek-design/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/dek-design/index.html",
+		"/Users/DanielKling/Desktop/Projects/dek-design/js/vendor/jquery.backstretch.min.js",
+		"/Users/DanielKling/Desktop/Projects/dek-design/sass/main.css",
+		"/Users/DanielKling/Desktop/Projects/dek-design/css/main.css",
+		"/Users/DanielKling/Desktop/Projects/Trauma-edu/js/main.js",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/motorcycle-maintenance.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/builds.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/js/script.js",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/motorcycle-restoration.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/custom-motorcycle-paint.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/motorcycle-fabrication.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/motorcycle-body-work.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/index.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/fabrication.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/restoration.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/maintenance.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/body-work.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/blog-post.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/blog.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/services/service.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/shop-view.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/css/jquery.fancybox.css",
+		"/Users/DanielKling/Desktop/Projects/jandb/fabrication.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/js/script-page.js",
+		"/Users/DanielKling/Desktop/Projects/jandb/service.html",
+		"/Users/DanielKling/Desktop/Projects/jandb/js/script-page-ck.js",
+		"/Users/DanielKling/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/DanielKling/Desktop/Projects/jandb/sftp-config.json",
+		"/Users/DanielKling/Desktop/Projects/jandb/less/style.less",
+		"/Users/DanielKling/Desktop/untitled.css",
+		"/Users/DanielKling/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"For my very first Beautiful Love of Fashion Blog series on influential style tastemakers, I wanted to pay homage to some of the",
+			"clients",
+			"hero__title",
+			"client",
+			"packages",
+			"content",
+			"</figure>",
+			"<figure class=\"portfolio__image\">",
+			" grid-25",
+			"1",
+			"hero--page",
+			"dribbb",
+			"ccc",
+			"about",
+			" grid-flow-opposite",
+			"7",
+			"ease-in",
+			"project__info",
+			"8",
+			"-scenic",
+			"-tax",
+			"graph",
+			"z-index",
+			"content",
+			"single-column",
+			"grid__",
+			"blog__grid",
+			"blog-grid",
+			"grid-column",
+			"grid__column",
+			"img",
+			"single-column",
+			"fonts",
+			"title",
+			"        <section class=\"quote spacer\">\n",
+			"section",
+			"map",
+			"nav",
+			"section-header",
+			"section-",
+			";",
+			"}",
+			"{",
+			";",
+			"}",
+			"{",
+			"product-small",
+			"product",
+			"}",
+			";",
+			"{",
+			">",
+			";",
+			"255",
+			"one-third",
+			"clearfix",
+			";",
+			"}",
+			"{",
+			"title",
+			";",
+			"}",
+			"{",
+			"product-options",
+			"input",
+			";",
+			"masthead",
+			"border",
+			";",
+			"div",
+			";",
+			"}",
+			"{",
+			"<p>This is a description.</p>",
+			"Client",
+			"client",
+			"Client",
+			"h2",
+			"}",
+			";",
+			"{",
+			"clearfix",
+			";",
+			"}",
+			"{",
+			";",
+			"h3",
+			"{",
+			";",
+			"}",
+			"{",
+			"clearfix",
+			"welcome",
+			"button-group",
+			"input",
+			"aside",
+			"aside li",
+			"aside ul",
+			".content",
+			"content",
+			"paint-header",
+			"footer",
+			"dropdown",
+			"div",
+			"li",
+			"build",
+			"blog-post",
+			"shop-view",
+			"article",
+			"View build",
+			"build",
+			"12 pics",
+			"Shots",
+			"blog",
+			"wrap",
+			".about",
+			"instagram"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cards.html",
+					"settings":
+					{
+						"buffer_size": 4012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2578,
+								2578
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/ExpressionEngine/ExpressionEngine.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 682.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/DanielKling/Library/Application Support/Sublime Text 2/Packages/User/picture.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"default_extension": "sublime-snippet",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "sass/main.scss",
+					"settings":
+					{
+						"buffer_size": 6702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3411,
+								3434
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2894.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.506959794207,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 295.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/DanielKling/Desktop/Projects/dek-design/dek.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true
+}

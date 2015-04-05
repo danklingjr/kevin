@@ -6,10 +6,13 @@ $font-size: 16px;
 	@return ($px / $base) * 1em;
 }
 
-$primary: #3d4045; // Dark navy green
+$primary: #3d4045; // Dark navy 
 $secondary: #8fcb1b; //green
 $tertiary: #e4ddd7; //tan
 $darkTertiary: #8a8480; //dark tan
+$mlb: #bb7417; //orange yellow
+$nfl: #9b380d; //red
+$nhl: #333333; //charcoal
 
 $headline: 'Oswald', sans-serif;
 $body: 'PT Serif', serif;

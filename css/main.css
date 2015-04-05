@@ -554,21 +554,25 @@ nav[role=navigation] {
 .point__3 h2:after {
   content: '03'; }
 
-.upcoming-tickets {
+.upcoming-tickets,
+.sports-cards {
   background-color: #e4ddd7;
   padding: 2.5% 5%;
   text-align: center; }
-  .upcoming-tickets h2 {
+  .upcoming-tickets h2,
+  .sports-cards h2 {
     color: #8a8480;
     line-height: 1.3em;
     margin-bottom: 40px; }
-    .upcoming-tickets h2 span {
+    .upcoming-tickets h2 span,
+    .sports-cards h2 span {
       font-family: "PT Serif", serif;
       font-size: 0.875em;
       font-style: italic;
       text-transform: lowercase !important;
       display: block; }
-    .upcoming-tickets h2 b {
+    .upcoming-tickets h2 b,
+    .sports-cards h2 b {
       font-size: 1.375em; }
 
 .ticket {
@@ -600,6 +604,204 @@ nav[role=navigation] {
       font-weight: 700;
       color: #fff;
       text-transform: uppercase; }
+
+.sports-cards {
+  padding: 2.5% 10%; }
+  .sports-cards h2 {
+    margin-bottom: 10px; }
+
+.filters {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  max-width: 490px;
+  margin: 0 auto 50px;
+  padding: 12px;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  -o-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25); }
+  .filters:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    background-color: #d3d3d3;
+    width: 70px;
+    height: 2px;
+    margin-top: -1px; }
+  .filters:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    background-color: #d3d3d3;
+    width: 70px;
+    height: 2px;
+    margin-top: -1px; }
+
+.filter--sport {
+  background-color: #e4ddd7;
+  border: 3px solid #3d4045;
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5625em;
+  font-weight: 700;
+  color: #3d4045;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 2.5px;
+  padding-top: 11px;
+  -webkit-border-radius: 32px;
+  -moz-border-radius: 32px;
+  -o-border-radius: 32px;
+  border-radius: 32px; }
+
+.all {
+  border: 3px solid #3d4045;
+  color: #3d4045;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+  .all:hover, .all:focus {
+    background-color: #3d4045;
+    color: #fff; }
+
+.mlb {
+  border: 3px solid #bb7417;
+  color: #bb7417;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+  .mlb:hover, .mlb:focus {
+    background-color: #bb7417;
+    color: #fff; }
+
+.nfl {
+  border: 3px solid #9b380d;
+  color: #9b380d;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+  .nfl:hover, .nfl:focus {
+    background-color: #9b380d;
+    color: #fff; }
+
+.nhl {
+  border: 3px solid #333333;
+  color: #333333;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; }
+  .nhl:hover, .nhl:focus {
+    background-color: #333333;
+    color: #fff; }
+
+.all.selected {
+  background-color: #3d4045;
+  color: #fff; }
+
+.mlb.selected {
+  background-color: #bb7417;
+  color: #fff; }
+
+.nfl.selected {
+  background-color: #9b380d;
+  color: #fff; }
+
+.nhl.selected {
+  background-color: #333333;
+  color: #fff; }
+
+.card {
+  position: relative;
+  background-color: #fff;
+  padding: 20px 30px 0;
+  margin-bottom: 70px !important; }
+  .card figure {
+    width: 100%;
+    margin-bottom: 20px; }
+    .card figure img {
+      max-width: 100%; }
+
+.card__title {
+  font-family: "PT Serif", serif;
+  font-size: 1.125em;
+  color: #252525;
+  text-transform: uppercase; }
+
+.card__price {
+  font-family: "PT Serif", serif;
+  font-size: 1.125em;
+  color: #96918d;
+  text-transform: uppercase;
+  margin: 10px 0 20px; }
+
+.card__action {
+  margin-bottom: -18px; }
+
+.tag--mlb:before {
+  content: 'MLB';
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: #bb7417;
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  padding-top: 9px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px; }
+
+.tag--nfl:before {
+  content: 'NFL';
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: #9b380d;
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  padding-top: 9px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px; }
+
+.tag--nhl:before {
+  content: 'NHL';
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  background-color: #333333;
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  padding-top: 9px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px; }
 
 .fade {
   opacity: 0;

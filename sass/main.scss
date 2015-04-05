@@ -172,7 +172,8 @@ nav[role=navigation]{
 		}
 	}
 }
-.upcoming-tickets{
+.upcoming-tickets,
+.sports-cards{
 	background-color: $tertiary;
 	padding: 2.5% 5%;
 	text-align: center;
@@ -225,6 +226,193 @@ nav[role=navigation]{
 			text-transform: uppercase;
 		}
 	}
+}
+.sports-cards{
+	padding: 2.5% 10%;
+	h2{
+		margin-bottom: 10px;
+	}
+}
+.filters{
+	position: relative;
+	background-color: #fff;
+	width: 100%;
+	max-width: 490px;
+	margin: 0 auto 50px;
+	padding: 12px;
+	@include prefix(box-shadow, 0 0 5px rgba(0,0,0,0.25));
+	&:before{
+		content: '';
+		position: absolute;
+		top: 50%;
+		left: 20px;
+		background-color: #d3d3d3;
+		width: 70px;
+		height: 2px;
+		margin-top: -1px;
+	}
+	&:after{
+		content: '';
+		position: absolute;
+		top: 50%;
+		right: 20px;
+		background-color: #d3d3d3;
+		width: 70px;
+		height: 2px;
+		margin-top: -1px;
+	}
+}
+.filter--sport{
+	background-color: $tertiary;
+	border: 3px solid $primary;
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	font-family: $headline;
+	font-size: em(25px,$font-size);
+	font-weight: 700;
+	color: $primary;
+	text-align: center;
+	text-decoration: none;
+	margin: 0 2.5px;
+	padding-top: 11px;
+	@include prefix(border-radius, 32px);
+}
+.all{
+	border: 3px solid $primary;
+	color: $primary;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+		background-color: $primary;
+		color: #fff;
+	}
+}
+.mlb{
+	border: 3px solid $mlb;
+	color: $mlb;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+		background-color: $mlb;
+		color: #fff;
+	}
+}
+.nfl{
+	border: 3px solid $nfl;
+	color: $nfl;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+		background-color: $nfl;
+		color: #fff;
+	}
+}
+.nhl{
+	border: 3px solid $nhl;
+	color: $nhl;
+	@include prefix(transition, 0.2s ease-in-out);
+	&:hover,
+	&:focus{
+		background-color: $nhl;
+		color: #fff;
+	}
+}
+.all.selected{
+	background-color: $primary;
+	color: #fff;
+}
+.mlb.selected{
+	background-color: $mlb;
+	color: #fff;
+}
+.nfl.selected{
+	background-color: $nfl;
+	color: #fff;
+}
+.nhl.selected{
+	background-color: $nhl;
+	color: #fff;
+}
+.card{
+	position: relative;
+	background-color: #fff;
+	padding: 20px 30px 0;
+	margin-bottom: 70px !important;
+	figure{
+		width: 100%;
+		margin-bottom: 20px;
+		img{
+			max-width: 100%;
+		}
+	}
+}
+.card__details{
+
+}
+.card__title{
+	font-family: $body;
+	font-size: em(18px,$font-size);
+	color: #252525;
+	text-transform: uppercase;
+}
+.card__price{
+	font-family: $body;
+	font-size: em(18px,$font-size);
+	color: #96918d;
+	text-transform: uppercase;
+	margin: 10px 0 20px;
+}
+.card__action{
+	margin-bottom: -18px;
+}
+.tag--mlb:before{
+	content: 'MLB';
+	position: absolute;
+	top: -20px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: $mlb;
+	font-family: $headline;
+	font-size: em(16px,$font-size);
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+	padding-top: 9px;
+	@include prefix(border-radius, 20px);
+}
+.tag--nfl:before{
+	content: 'NFL';
+	position: absolute;
+	top: -20px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: $nfl;
+	font-family: $headline;
+	font-size: em(16px,$font-size);
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+	padding-top: 9px;
+	@include prefix(border-radius, 20px);
+}
+.tag--nhl:before{
+	content: 'NHL';
+	position: absolute;
+	top: -20px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: $nhl;
+	font-family: $headline;
+	font-size: em(16px,$font-size);
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+	padding-top: 9px;
+	@include prefix(border-radius, 20px);
 }
 .fade{
 	opacity: 0;
